@@ -1,4 +1,4 @@
-# UI Design System
+# Cyber UI
 
 > Ultra-Premium Component Library • 2026 Cyber-Luxury Edition
 
